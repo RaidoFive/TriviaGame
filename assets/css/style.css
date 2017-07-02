@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: black;
+	font-family: 'Special Elite', cursive;
+	color: white;
+}
+
+.pull-right {
+	height: 50%;
+	width: 50%;
+}
+
+#q1 {
+	margin-top: 100px;
+}
+
+.btn-primary {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+
+.btn-danger {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
