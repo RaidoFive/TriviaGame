@@ -17,8 +17,7 @@ var arr = ["There are 10 furlongs in a mile.",
 		   "Mosquitos have teeth.",
 		   "A group of flamingos is called a flamboyance.",
 		   ];
-
-var trashbin = [];
+		   
 var time = 0;
 var clockRunning = false;
 var countDown = 3000;
